@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body#fondo{
+	background-color: lightsteelblue;
+	font-family: sans-serif;
+}
+header#titulo_prin{
+	text-align: center;
+}
+
+article.description{
+	background-color: lightgray;
+}
+header.titulo_sub{
+	text-decoration: underline;
+	color: darkslategrey;
+	background-color: lightslategrey;
+}
+.color{
+	color: blue;
+}
+header#titulo_sub2{
+	color: darkslategrey;
+	background-color: lightslategrey;
+	font-style: oblique;
+}
+footer#fin{
+	text-align: right;
+	font-style: oblique;
+	background-color: white;
+}
+hr#line{
+	border-color: black;
+}
+p#autor{
+	text-align: center;
+	font-size: smaller;
+}
+footer#finop{
+	background-color: white;
+}
+body#fondop{
+	background-color: whiter;
+}
